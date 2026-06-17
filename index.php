@@ -27,7 +27,7 @@
         </h3>
 
         <p data-aos="fade" data-aos-duration="2000" style="margin-top: 22px; max-width: 560px;">
-          MIT MEng and BSc in Computation and Cognition. Co-founder and CTO of Avenir. My work spans digital phenotyping, clinical prediction, biofabrication, geospatial health, and healthcare decision systems.
+          MIT Computer Science & Neuroscience. Cofounder and CTO of Avenir. ML researcher.
         </p>
 
         <div style="margin-top: 30px;">
