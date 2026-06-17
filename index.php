@@ -343,8 +343,7 @@
       </p>
       <div style="margin-top: 30px;">
         <a href="mailto:ari@avenir.com.ai" class="btn solid">Email me</a>&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/ariadnedulchinos/" class="btn">LinkedIn</a>&nbsp;&nbsp;
-        <a href="https://twitter.com/arintheia" class="btn">Twitter / X</a>
+        <a href="https://www.linkedin.com/in/ariadnedulchinos/" class="btn">LinkedIn</a>
       </div>
     </div>
   </div>

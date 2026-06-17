@@ -1,11 +1,11 @@
 <?php
   // Per-page SEO. Pages may set $page_title, $page_description, $page_keywords,
   // $page_path, $og_type, $og_image, $page_robots before including this file.
-  // Defaults below preserve the original homepage metadata exactly.
+  // Defaults below are the homepage (researcher positioning) metadata.
   $base = 'https://arinthia.design/';
-  $d_title    = 'Ari Dulchinos - Designer, Developer, Model, Entrepreneur';
-  $d_desc     = 'Arinthia delivers website, app, and brand design for startups, 80% faster than other agencies. Your next amazing project is a click away.';
-  $d_keywords = 'web design for startups, app wireframes for startups, how to design logo for startups, cambridge design agency, cambridge design for startups, boston design for startups, startup graphic design, startup logo design';
+  $d_title    = 'Ariadne Dulchinos · ML Researcher & Founder of Avenir AI';
+  $d_desc     = 'Ariadne Dulchinos builds machine learning systems for human, biological, and healthcare data. Co-founder and CTO of Avenir AI; ML researcher trained at MIT.';
+  $d_keywords = 'Ariadne Dulchinos, machine learning researcher, digital phenotyping, healthcare AI, Avenir AI, MIT, clinical prediction, biomedical machine learning, AI founder';
 
   $title     = isset($page_title) ? $page_title : $d_title;
   $desc      = isset($page_description) ? $page_description : $d_desc;

@@ -73,7 +73,7 @@
         </div>
 
         <div class="proj-section" style="padding-top: 30px;">
-          <a class="btn solid" href="https://www.avenirai.com">Visit Avenir</a>&nbsp;&nbsp;
+          <a class="btn solid" href="https://www.avenir.com.ai">Visit Avenir</a>&nbsp;&nbsp;
           <a class="btn" href="index.php#works">← Back to all work</a>
         </div>
 
